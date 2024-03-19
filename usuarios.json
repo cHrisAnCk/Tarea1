@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+      {
+        "email": "usuario1@example.com",
+        "contrasena": "contrasena1"
+      },
+      {
+        "email": "usuario2@example.com",
+        "contrasena": "contrasena2"
+      },
+      {
+        "email": "usuario3@example.com",
+        "contrasena": "contrasena3"
+      }
+    ]
+  }
