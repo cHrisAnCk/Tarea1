@@ -1,46 +1,23 @@
 {
-  "siete_maravillas_del_mundo": [
+  "productos": [
     {
-      "Nombre": "Gran Muralla China",
-      "Imagen": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic2710344.jpg?w=760&h=509",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 500
-    },
-    {
-      "Nombre": "Petra, Jordania",
-      "Imagen": "https://blog.grandvoyage.com/wp-content/uploads/2018/12/petra-grandvoyage-01.jpg",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 600
-    },
-    {
-      "Nombre": "Cristo Redentor, Brasil",
-      "Imagen": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e4/12/c9/visao-privilegiada.jpg?w=600&h=500&s=1",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 550
-    },
-    {
-      "Nombre": "Machu Picchu, Perú",
-      "Imagen": "https://www.perurail.com/wp-content/uploads/2020/11/Machu-Picchu-la-Ciudadela-Inca.jpg",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 700
-    },
-    {
-      "Nombre": "Chichén Itzá, México",
-      "Imagen": "https://static1.evcdn.net/images/reduction/1243559_w-850_h-400_q-100_m-crop.jpg",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 550
-    },
-    {
-      "Nombre": "Coliseo Romano, Italia",
-      "Imagen": "https://fotografias.larazon.es/clipping/cmsimages02/2019/08/13/BF2B8DFE-24F3-4607-AA30-39890FC3FAA2/98.jpg?crop=444,250,x20,y0&width=1900&height=1069&optimize=low&format=webply",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 600
-    },
-    {
-      "Nombre": "Taj Mahal, India",
-      "Imagen": "https://services.meteored.com/img/article/la-razon-por-la-que-el-taj-mahal-de-la-india-cambia-de-color-varias-veces-al-dia-1703426727911_768.jpeg",
-      "Rate": "⭐️⭐️⭐️⭐️⭐️",
-      "Precio": 700
-    }
+    "Id": 1,
+    "Descripcion": "mouse",
+    "Precio": "10.00",
+    "Imagen": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/accessories/wireless-mouse-gt/specs-img.jpg"
+  },
+  {
+    "Id": 2,
+    "Descripcion": "teclado",
+    "Precio": "20.00",
+    "Imagen": "https://www.chuwi.com/public/upload/image/20230208/f3bb643dcd24141261324785d0c8523b.jpg"
+  },
+  {
+    "Id": 3,
+    "Descripcion": "pantalla",
+    "Precio": "30.00",
+    "Imagen": "https://media.gcflearnfree.org/content/5ce56bebc0220e22c08b9f74_05_22_2019/monitor-01_xl.png"
+  }
+  
   ]
 }
