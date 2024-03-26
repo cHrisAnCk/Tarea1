@@ -1,31 +1,32 @@
 {
-    "producto":[
-        {
-            "Id":1,
-            "Descripcion":"Mouse",
-            "Precio":"30.00"
-        },
-        {
-            "Id":2,
-            "Descripcion":"Mouse",
-            "Precio":"30.00"
-
-        },
-        {
-            "Id":3,
-            "Descripcion":"Pantalla",
-            "Precio":"30.00"
-        },
-        {
-            "Id":4,
-            "Descripcion":"Memoria RAM",
-            "Precio":"30.00"
-        }
-
-
-    ]
-
-
-
-
+  "siete_maravillas_del_mundo": [
+    {
+      "Nombre": "Gran Muralla China",
+      "Imagen": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic2710344.jpg?w=760&h=509"
+    },
+    {
+      "Nombre": "Petra, Jordania",
+      "Imagen": "https://blog.grandvoyage.com/wp-content/uploads/2018/12/petra-grandvoyage-01.jpg"
+    },
+    {
+      "Nombre": "Cristo Redentor, Brasil",
+      "Imagen": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e4/12/c9/visao-privilegiada.jpg?w=600&h=500&s=1"
+    },
+    {
+      "Nombre": "Machu Picchu, Perú",
+      "Imagen": "https://www.perurail.com/wp-content/uploads/2020/11/Machu-Picchu-la-Ciudadela-Inca.jpg"
+    },
+    {
+      "Nombre": "Chichén Itzá, México",
+      "Imagen": "https://static1.evcdn.net/images/reduction/1243559_w-850_h-400_q-100_m-crop.jpg"
+    },
+    {
+      "Nombre": "Coliseo Romano, Italia",
+      "Imagen": "https://www.usergioarboleda.edu.co/wp-content/uploads/2016/03/Coliseo-Romano1-1024x749.jpg"
+    },
+    {
+      "Nombre": "Taj Mahal, India",
+      "Imagen": "https://services.meteored.com/img/article/la-razon-por-la-que-el-taj-mahal-de-la-india-cambia-de-color-varias-veces-al-dia-1703426727911_768.jpeg"
+    }
+  ]
 }
